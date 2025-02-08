@@ -5,7 +5,7 @@ The **Hobby Gear Motor Control System** is an innovative Arduino project that dy
 ## 📸 Circuit Diagram  
 Here's the circuit setup for this project:  
 
-![Circuit Diagram](Smart Ultrasonic Car.png)
+![Circuit Diagram](smart_ultrasonic_car.png)
 
 ## 🔧 Features  
 ✅ **Intelligent Distance Measurement**: Utilizes ultrasonic technology for precise distance readings.  
